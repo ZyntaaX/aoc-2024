@@ -7,6 +7,9 @@ import Day02_2 from "./assignments/02/2";
 import Day03_1 from "./assignments/03/1";
 import Day03_2 from "./assignments/03/2";
 
+import Day04_1 from "./assignments/04/1";
+import Day04_2 from "./assignments/04/2";
+
 /** Day 1 */
 // Day01_1();
 // Day01_2();
@@ -17,4 +20,8 @@ import Day03_2 from "./assignments/03/2";
 
 /** Day 3 */
 // Day03_1();
-Day03_2();
+// Day03_2();
+
+/** Day 4 */
+// Day04_1();
+Day04_2();
