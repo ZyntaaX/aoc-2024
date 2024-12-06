@@ -74,7 +74,6 @@ function isUpdateCorrect(update: Update, rules: RuleSet[]): boolean {
     return isCorrect;
 }
 
-// Kahn's Algorithm
 function topologicalSort(updates: Update[], rules: RuleSet[]): Update[] {
     const fixedUpdates: Update[] = [];
 
